@@ -1,0 +1,13 @@
+README:
+
+What it does:
+1. parse Qunar.com, get the fly ticket price and save to DB.
+2. data analyse, suggest the date with inputed time frame
+
+It works for Ruby Watir 1.68, not guarantee works for latest Ruby Watir, please check Watir homepage.
+
+And Qunar.com later provide price alert features, so this script is out of maintance since 2009.
+
+Yong
+li.yong@outlook.com
+
